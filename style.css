@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+#M {
+    font-size: 25px;
+}
+
+#Mando {
+    height: 250px;
+}
+
+#Mandolorian {
+    font-size: 20px;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+ul {
+    display:block;
+}
